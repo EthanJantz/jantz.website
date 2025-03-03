@@ -1,0 +1,14 @@
+baseURL = 'https://jantz.website/'
+languageCode = 'en-US'
+title = 'Ethan Jantz'
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
