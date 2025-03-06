@@ -1,6 +1,7 @@
-baseURL = 'https://jantz.website/'
+baseURL = 'https://www.jantz.website/'
 languageCode = 'en-US'
 title = 'Ethan Jantz'
+enableGitInfo = true
 
 [menu]
   [[menu.main]]
