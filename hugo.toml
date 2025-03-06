@@ -14,6 +14,10 @@ enableGitInfo = true
     url = "/ideas/"
     weight = 2
 
+  [[menu.main]]
+    name = "Now"
+    url = "/now/"
+    weight = 3
 [module]
   [module.hugoVersion]
     extended = false
