@@ -1,10 +1,11 @@
 +++
 title = 'Ideas'
-date = 2025-03-05
 draft = false
 showDate = false
 showTitle = false
 +++
+
+(chicago computer club, anyone?)[https://startacomputer.club/]
 
 ## barely-researched semi-rant on gov't PR
 
