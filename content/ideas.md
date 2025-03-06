@@ -2,7 +2,8 @@
 title = 'Ideas'
 date = 2025-03-05
 draft = false
-showDate = true
+showDate = false
+showTitle = false
 +++
 
 ## barely-researched semi-rant on gov't PR

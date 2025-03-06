@@ -1,8 +1,7 @@
 +++
-title = ''
+title = 'About'
+showTitle = false
 +++
-
-![Under Construction](https://upload.wikimedia.org/wikipedia/commons/1/19/Under_construction_graphic.gif)
 
 Welcome to my website! I use this space to flesh out ideas I'm working on, share my side projects, and talk about things that excite me. My inspiration for putting this site together came from some conversations I had been having around the idea of a [digital garden](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/). I've been a blog reader for over a decade, and had always thought that a blog is a space for finished thoughts. This website is my attempt to challenge that assumption.
 
