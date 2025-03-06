@@ -5,19 +5,13 @@ showDate = false
 showTitle = false
 +++
 
-# What am I up to?
-
-* (learning)[#learning]
-* (making)[#making]
-* (enjoying)[#enjoying]
-
 ## Learning {#learning}
 
 Wrapping my head around Hugo and refreshing my HTML/CSS so I can pretty up this website and focus on writing.
 
-Popping back into (my favorite barebones exercise info site)[https://exrx.net/] to look into ways to help protect my shoulders from injury. 
+Popping back into [my favorite barebones exercise info site](https://exrx.net/) to look into things to add to my routine to help protect my shoulders from injury. 
 
-Javascript via (The Nature of Code)[https://natureofcode.com/].
+Javascript via [The Nature of Code](https://natureofcode.com/).
 
 ## Making {#making}
 
