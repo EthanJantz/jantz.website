@@ -29,3 +29,8 @@ The transition from Winter into Spring
 
 The Fifth Season by N.K. Jemisin
 
+[choke enough - Oklou](https://www.youtube.com/watch?v=ADtPzdWiTQ0)
+
+[Middle - Jesse Welles](https://www.youtube.com/watch?v=cqfJnUgvso0) 
+
+[Heavy Metal - Cameron Winter](https://www.youtube.com/watch?v=Xee_2r-5L2U)
