@@ -17,6 +17,8 @@ Eggs are getting more expensive, [but it doesn't seem like it's related to any e
 
 Black pepper tofu and broccoli. It took a lot of fiddling with the sauce but I was pretty happy with how it turned out!
 
+Minesweeper!
+
 ## Enjoying {#enjoying}
 
 [y2morrow - haiipara](https://www.youtube.com/watch?v=tkCsj8Ze9HY)

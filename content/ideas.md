@@ -5,6 +5,6 @@ showDate = false
 showTitle = false
 +++
 
-What's up with this [abundance movement people keep talking about](https://www.nytimes.com/2022/05/29/opinion/biden-liberalism-infrastructure-building.html)? Are the technocrats [rebranding again](https://en.wikipedia.org/wiki/Technocracy_movement)?
+I've been thinking about what could be done to spice up [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) lately.
 
 [chicago computer club, anyone?](https://startacomputer.club/)
