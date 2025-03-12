@@ -7,21 +7,19 @@ showTitle = false
 
 ## Learning {#learning}
 
-Wrapping my head around Hugo and refreshing my HTML/CSS so I can pretty up this website and focus on writing.
+[Javascript w/ NoC](https://natureofcode.com/)
 
-Popping back into [my favorite barebones exercise info site](https://exrx.net/) to look into things to add to my routine to help protect my shoulders from injury. 
+[More about digital storage solutions than I was expecting to](https://www.spiceworks.com/tech/data-management/articles/what-is-raid-storage/)
 
-Javascript via [The Nature of Code](https://natureofcode.com/).
+Eggs are getting more expensive, [but it doesn't seem like it's related to any egg shortage](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation).
 
 ## Making {#making}
 
-This website. I'd like to end up with something a bit more exciting than black text/white page.
-
-My little javascript-based ecosystem simulation (there will be birds)
-
-Some 3D printed odds and ends
+Black pepper tofu and broccoli. It took a lot of fiddling with the sauce but I was pretty happy with how it turned out!
 
 ## Enjoying {#enjoying}
+
+[y2morrow - haiipara](https://www.youtube.com/watch?v=tkCsj8Ze9HY)
 
 The english fan translation of Mother 3
 
@@ -30,7 +28,3 @@ The transition from Winter into Spring
 The Fifth Season by N.K. Jemisin
 
 [choke enough - Oklou](https://www.youtube.com/watch?v=ADtPzdWiTQ0)
-
-[Middle - Jesse Welles](https://www.youtube.com/watch?v=cqfJnUgvso0) 
-
-[Heavy Metal - Cameron Winter](https://www.youtube.com/watch?v=Xee_2r-5L2U)
