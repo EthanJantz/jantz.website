@@ -5,19 +5,25 @@ enableGitInfo = true
 
 [menu]
   [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     name = "Ideas"
     url = "/ideas/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     name = "Now"
     url = "/now/"
-    weight = 3
+    weight = 4
+
 [module]
   [module.hugoVersion]
     extended = false

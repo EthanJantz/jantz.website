@@ -1,0 +1,17 @@
++++
+title = 'What if Things Just Got Better?'
+date = 2025-03-15
+draft = false
+showDate = true
+showTitle = true
++++
+
+We're in interesting times. Things are changing rapidly, and the response I've seen has been an angry and fatalistic doomerism that I find ill-fit to the moment. "Things will get worse before they get better" is a common phrase I'm hearing parroted. It's a frustrating phrase to hear because of the possibilities it precludes, and the surrender that it implies. 
+
+What if things just got better? 
+
+I'm not saying everything will get better, or that the current moment is looking optimistic -- things are looking bad. I'm saying that, in this moment, we would benefit ourselves to imagine alternative futures. Futures where opportunities arise to improve life with and for the people we are sharing this moment with. What if we're watching the reorganization of our society and were able to use this moment of profound change to articulate and enact a new vision, one that allows us to accept these changes and push towards a better future? What if the stock market crashing was not the beginning of a depression, but instead the opportunity for our society to move away from corporate and monopoly dominated, market-driven economics and toward something more just and humanistic? What if the dismantling of the federal government wasn't the end of our society? What if the status quo is a ball in play, and what if the challenge of this moment is to find opportunities to steal the ball? What if we are watching the final pages of the capitalist era playing out in real time? This is a moment that begs us to decide what's next. 
+
+Is it possible? Can we decide? I can see a path that leads towards a better world, but that path requires a collective vision - or a confluence of positive visions. Maybe things do get worse, but maybe they just get better. Maybe the change we're experiencing is something that begs for adaptation. The world doesn't lend itself to simplification, folk wisdom doesn't apply. There is no pithy phrase, like "things will get worse before they get better", that can answer the challenge of this moment. In fact, any oversimplification of the situation is ultimately an effort to prohibit the helpers from helping. 
+
+In this moment the challenge is to engage with the complex reality we're facing and figure out where one can contribute to a positive vision. Personally, I think that my path forward is to engage in work and activities that I see as pro-social. The past decade of my life has happened under the backdrop of anti-social tools and dark patterns that I think are largely responsible for this moment. Is the path forward to invest in $BTC or some other rug-pull-adjacent scam -- some technocratic pipe-dream? -- or is there a better thing to invest in? I think that there's more virtue in being a bus driver than a market trader. Investing in your community is a better long-term investment than any 401k. There's so much to gain for yourself and your fellow countryman in being present to carry water for those who can't. This moment begs us to engage with each other. This moment doesn't call for a continuation of the status quo. What this moment calls for is better ideas. 
