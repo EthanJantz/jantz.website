@@ -5,8 +5,8 @@ showDate = false
 showTitle = false
 +++
 
-What if [things just got better?]({{< ref "posts/what-if-things-just-got-better" >}})
+I've been thinking about what could be done to spice up [Minesweeper]({{< ref "posts/making-minesweeper" >}}) lately. I was bouncing ideas around with a friend and think there's an opportunity for a cool roguelike dungeon crawler somewhere in the game.
 
-I've been thinking about what could be done to spice up [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) lately.
+What if [things just got better?]({{< ref "posts/what-if-things-just-got-better" >}})
 
 [chicago computer club, anyone?](https://startacomputer.club/)

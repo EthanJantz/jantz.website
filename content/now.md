@@ -13,24 +13,26 @@ showTitle = false
 
 ## Learning {#learning}
 
-[Javascript w/ NoC](https://natureofcode.com/)
+[I had no idea Manhattan had an underground steam delivery network.](https://worksinprogress.co/issue/steam-networks/)
 
-[More about digital storage solutions than I was expecting to](https://www.spiceworks.com/tech/data-management/articles/what-is-raid-storage/)
+[The animals on the cover of O'Reilly books have a cool history!](https://www.oreilly.com/content/a-short-history-of-the-oreilly-animals/)
 
-Eggs are getting more expensive, [but it doesn't seem like it's related to any egg shortage](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation).
+[Still on The Nature of Code, this is one of those slow burn projects.](https://natureofcode.com/)
 
 ## Making {#making}
 
-Minesweeper!
+[Minesweeper!](https://www.github.com/ethanjantz/py-sweeper)
 
 ## Enjoying {#enjoying}
 
-[Sinister Grift - Panda Bear](https://www.youtube.com/watch?v=cahhC2GTaC8) reminds me of The Beach Boys
+Browsing the Spring sale on Steam
 
-[Heavy Metal - Cameron Winter](https://www.youtube.com/watch?v=3mfI0jL3J14) 
+[Searching for a Pulse - Orthodox](https://www.youtube.com/watch?v=PBbSuJSOWJ0) awesome metalcore, looking forward to the album
 
-[y2morrow - haiipara](https://www.youtube.com/watch?v=tkCsj8Ze9HY)
+[Sinister Grift - Panda Bear](https://www.youtube.com/watch?v=cahhC2GTaC8) reminds me of The Beach Boys if they hung out with Vampire Weekend
 
-The english fan translation of Mother 3
+[Heavy Metal - Cameron Winter](https://www.youtube.com/watch?v=3mfI0jL3J14) this one feels like it's gonna be on rotation for a while
 
-[choke enough - Oklou](https://www.youtube.com/watch?v=ADtPzdWiTQ0)
+The english fan translation of [Mother 3](https://en.wikipedia.org/wiki/Mother_3)
+
+[choke enough - Oklou](https://www.youtube.com/watch?v=ADtPzdWiTQ0) i saw an Underscores feature and had to check it out. this is a cool album
