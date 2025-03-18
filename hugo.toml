@@ -30,7 +30,7 @@ enableGitInfo = true
     min = "0.116.0"
 
 [outputs]
-  home = ['html']
+  home = ['html', 'rss']
   section = ['html', 'rss']
   taxonomy = ['html']
   term = ['html']

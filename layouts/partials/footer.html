@@ -1,7 +1,7 @@
 <p>
     Copyright {{ now.Year }} Ethan Jantz |
     Page last modified {{ .Lastmod | time.Format ":date_medium" }} |
-    {{ with .OutputFormats.Get "RSS" }}
+    {{ with site.Home.OutputFormats.Get "RSS" }}
       <a href="{{ .RelPermalink }}" title="RSS feed">Follow my RSS feed</a>
     {{ end }}
   </p>
