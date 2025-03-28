@@ -5,34 +5,38 @@ showDate = false
 showTitle = false
 +++
 
-## Reading {#reading}
-
-[The Fifth Season - N.K. Jemisin](https://en.wikipedia.org/wiki/The_Fifth_Season_(novel))
-
-[The Waking - Theodore Roethke](https://www.poetryfoundation.org/poems/43333/the-waking-56d2220f25315)
-
 ## Learning {#learning}
 
-[I had no idea Manhattan had an underground steam delivery network.](https://worksinprogress.co/issue/steam-networks/)
+[Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment) -- first project node is running a hefty model fit. Super nice to not have it taking up resources from my daily driver
 
-[The animals on the cover of O'Reilly books have a cool history!](https://www.oreilly.com/content/a-short-history-of-the-oreilly-animals/)
+[A contextual analysis of Wagner's *The Nieblung's Ring*](https://www.ecosophia.net/the-nibelungs-ring-prelude/) -- well written essay series and the author has some interesting takes
+
+[American history circa the western expansion via Empire Pod](https://www.youtube.com/watch?v=w4J4fA-OSNk) 
 
 [Still on The Nature of Code, this is one of those slow burn projects.](https://natureofcode.com/)
 
+[Perennially -- sticking hands and the wooden dummy](https://en.wikipedia.org/wiki/Wing_Chun)
+
 ## Making {#making}
 
-[Minesweeper!](https://www.github.com/ethanjantz/py-sweeper)
+Getting my homelab working
+
+Spring has sprung, so I'm back on my pasta salad kick
+
+I've got some writing spinning around on the topic of practice
+
+[Minesweeper!](https://www.github.com/ethanjantz/py-sweeper) Got a grid system figured out and am planning on a bigger project. More to come
 
 ## Enjoying {#enjoying}
 
-Browsing the Spring sale on Steam
+[Red Team Blues - Cory Doctorow](https://www.goodreads.com/book/show/60784417-red-team-blues) -- techy pulp fiction
 
-[Searching for a Pulse - Orthodox](https://www.youtube.com/watch?v=PBbSuJSOWJ0) awesome metalcore, looking forward to the album
+Got to see [Yasuaki Shimizu](https://www.youtube.com/watch?v=Z_TmLrovBQc) live this week. I've never seen floor seating at Thalia Hall before.  
 
-[Sinister Grift - Panda Bear](https://www.youtube.com/watch?v=cahhC2GTaC8) reminds me of The Beach Boys if they hung out with Vampire Weekend
+[Manning Fireworks - MJ Lenderman](https://www.youtube.com/watch?v=YeGujHpGUIs) -- alt country with some good humor and heartbreaking vignettes
 
-[Heavy Metal - Cameron Winter](https://www.youtube.com/watch?v=3mfI0jL3J14) this one feels like it's gonna be on rotation for a while
+[Sinister Grift - Panda Bear](https://www.youtube.com/watch?v=g0uc3Ag2yXM) -- like Heavy Metal, this one continues to grow on me
+
+[Heavy Metal - Cameron Winter](https://www.youtube.com/watch?v=Xee_2r-5L2U) -- still in rotation
 
 The english fan translation of [Mother 3](https://en.wikipedia.org/wiki/Mother_3)
-
-[choke enough - Oklou](https://www.youtube.com/watch?v=ADtPzdWiTQ0) i saw an Underscores feature and had to check it out. this is a cool album

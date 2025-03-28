@@ -5,8 +5,8 @@ showDate = false
 showTitle = false
 +++
 
-I've been thinking about what could be done to spice up [Minesweeper]({{< ref "posts/making-minesweeper" >}}) lately. I was bouncing ideas around with a friend and think there's an opportunity for a cool roguelike dungeon crawler somewhere in the game.
+I'm planning out a reinforcement learning project based on my Minesweeper game.
 
-What if [things just got better?]({{< ref "posts/what-if-things-just-got-better" >}})
+A friend was comparing western expansion with exploring the internet and the idea has set a seed in my mind. Where are there similarities? Differences? Is it an apt metaphor? I'm not sure, but it's an interesting idea for some research.
 
 [chicago computer club, anyone?](https://startacomputer.club/)
