@@ -7,36 +7,46 @@ showTitle = false
 
 ## Learning {#learning}
 
-[Proxmox VE](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment) -- first project node is running a hefty model fit. Super nice to not have it taking up resources from my daily driver
+Wrapped up [textbook](https://pragprog.com/titles/jwpython/a-common-sense-guide-to-data-structures-and-algorithms-in-python-volume-1/) on data structures and algorithms.
 
-[A contextual analysis of Wagner's *The Nieblung's Ring*](https://www.ecosophia.net/the-nibelungs-ring-prelude/) -- well written essay series and the author has some interesting takes
+I've been taking the dive into [Vim](https://www.vim.org/) lately. It's slow to start but super fun when the muscle memory kicks in for some actions!
 
-[American history circa the western expansion via Empire Pod](https://www.youtube.com/watch?v=w4J4fA-OSNk) 
+I spent June starting to learn Muay Thai. It's challenging, and a nice complement to my growing martial arts practice. 
 
-[Still on The Nature of Code, this is one of those slow burn projects.](https://natureofcode.com/)
+Getting into the weeds with [neural networks](https://www.youtube.com/watch?v=VMj-3S1tku0).
 
-[Perennially -- sticking hands and the wooden dummy](https://en.wikipedia.org/wiki/Wing_Chun)
+Preparing for my time at [the Recurse Center](https://www.recurse.com) by doing some toy Python and Bash projects. 
+
+Jumping rope! Getting the rhythm takes some practice, it feels like learning to play drums for the first time again.
 
 ## Making {#making}
 
-Getting my homelab working
+I printed and assembled some fun, useful things for myself and friends. Throwing together a tripod for my buddy's DSLR was particularly interesting. I would recommend against buying machine screws from Home Depot, they're pricier than just buying a box of assorted screws. 
 
-Spring has sprung, so I'm back on my pasta salad kick
+Getting [Arch Linux](https://archlinux.org/) to look and work the way I want it to. It's been a great learning experience. 
 
-I've got some writing spinning around on the topic of practice
+Working on a project focused on vacant properties in Chicago in response to some thoughts I've been having about the Abundists and their agenda. 
 
-[Minesweeper!](https://www.github.com/ethanjantz/py-sweeper) Got a grid system figured out and am planning on a bigger project. More to come
+Solving problems on [SadServers](https://sadservers.com/).
 
 ## Enjoying {#enjoying}
 
-[Red Team Blues - Cory Doctorow](https://www.goodreads.com/book/show/60784417-red-team-blues) -- techy pulp fiction
+Spending time with friends this summer before I head out of town.
 
-Got to see [Yasuaki Shimizu](https://www.youtube.com/watch?v=Z_TmLrovBQc) live this week. I've never seen floor seating at Thalia Hall before.  
+Minneapolis, such a beautiful city! 
 
-[Manning Fireworks - MJ Lenderman](https://www.youtube.com/watch?v=YeGujHpGUIs) -- alt country with some good humor and heartbreaking vignettes
+[New York City!](https://www.youtube.com/watch?v=vk6014HuxcE)
 
-[Sinister Grift - Panda Bear](https://www.youtube.com/watch?v=g0uc3Ag2yXM) -- like Heavy Metal, this one continues to grow on me
+[The Three Body Problem by Cixin Liu](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))
 
-[Heavy Metal - Cameron Winter](https://www.youtube.com/watch?v=Xee_2r-5L2U) -- still in rotation
+A second time around with [Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2)
 
-The english fan translation of [Mother 3](https://en.wikipedia.org/wiki/Mother_3)
+[Clair Obscur: Expedition 33](https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33)
+
+[A Door Left Open - Orthodox](https://www.youtube.com/watch?v=TAMISEC6FkQ) - This album is what I was hoping it would be. Big rec to the metal enjoyers out there. 
+
+[NEVER ENOUGH - Turnstile](https://www.youtube.com/watch?v=hfrnipyNcu0) - Another solid release. I'm digging how dynamic this album is. 
+
+[dgenr8's new website](https://www.dgenr8.world/) is sick. I'm loving what Grady has been building this project into. If you haven't watched what he's [been posting](https://www.youtube.com/watch?v=pAV_0qpeMTA) you're missing out!
+
+
