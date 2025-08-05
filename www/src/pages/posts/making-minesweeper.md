@@ -1,10 +1,7 @@
-+++
+---
 title = 'Making Minesweeper'
 date = 2025-03-16
-draft = false
-showDate = true
-showTitle = true
-+++
+---
 
 I've been thinking about the game [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) lately and decided that I would take a stab at writing the game from scratch. This started out as a relatively straightforward project, but I hit some snags and learned some cool things along the way that I thought would be interesting to write about. If you're less interested in reading about the development process and more interested in reading the code, go visit the [project's GitHub repository](https://www.github.com/ethanjantz/py-sweeper), where you can find all of the code. I put some extra effort in to document the code and write some simple tests, so if you're comfortable with python it should be pretty easy to follow! If you're more interested in the story of how this was developed, for whatever reason, continue reading!
 

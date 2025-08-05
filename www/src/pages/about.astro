@@ -1,5 +1,10 @@
 ---
-
+import '../styles/global.css';
+const pageTitle = "About";
+const words = ["Oeuvre", "Dialectical", "Scintillating"];
+const wordColor = "lavender";
+const fontWeight = "bold";
+const textCase = "uppercase";
 ---
 
 <html lang="en">
@@ -8,14 +13,29 @@
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>jantz.website</title>
+    <title>{pageTitle}</title>
+    <style define:vars={{wordColor, fontWeight, textCase}}>
+      h1 {
+        color: purple;
+        font-size: 4rem;
+      }
+      .word {
+        color: var(--wordColor);
+        font-weight: var(--fontWeight);
+        text-transform: var(--textCase);
+      }
+    </style>
 	</head>
   <body> 
     <a href="/">Home</a>
     <a href="/about">About</a>
     <a href="/blog/">Blog</a>
+    <h1>{pageTitle}</h1>
 		<h1>This is an about page</h1>
     <p>Ethan Jantz is developing a website in Astro</p>
+    <ul>
+      {words.map((word) => <li class="word">{word}</li>)}
+    </ul>
 	</body>
 </html>
 
