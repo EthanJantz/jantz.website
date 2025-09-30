@@ -16,9 +16,9 @@ body {
 }
 
 .footer-content {
-  height: 200px;
-  display: block;
-  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 a {
