@@ -1,5 +1,7 @@
 ---
 import '../styles/global.css';
+import Footer from '../components/Footer.astro'
+import Header from '../components/Header.astro'
 const pageTitle = "Blog"
 ---
 
@@ -12,16 +14,15 @@ const pageTitle = "Blog"
     <title>{pageTitle}</title>
 	</head>
   <body> 
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-    <a href="/blog/">Blog</a>
-    <h1>{pageTitle}</h1>
-		<h1>This is the blog page</h1>
-    <p> This is where blog posts will go </p>
-    <ul>
-      <li><a href="/posts/making-minesweeper/">Making Minesweeper</a></li>
-      <li><a href="/posts/practice/">Practice</a></li>
-    </ul>
+    <div class="float-container">
+      <div class="float-child posts">
+        <li><a href="/posts/lets-golf/">Let's Golf!</a></li>
+        <li><a href="/posts/making-minesweeper/">Making Minesweeper</a></li>
+        <li><a href="/posts/practice/">Practice</a></li>
+      </div>
+      <Header />
+    </div>
 	</body>
+  <Footer>
 </html>
 

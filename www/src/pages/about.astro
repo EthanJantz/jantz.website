@@ -1,10 +1,6 @@
 ---
 import '../styles/global.css';
 const pageTitle = "About";
-const words = ["Oeuvre", "Dialectical", "Scintillating"];
-const wordColor = "lavender";
-const fontWeight = "bold";
-const textCase = "uppercase";
 ---
 
 <html lang="en">
@@ -14,28 +10,21 @@ const textCase = "uppercase";
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
     <title>{pageTitle}</title>
-    <style define:vars={{wordColor, fontWeight, textCase}}>
-      h1 {
-        color: purple;
-        font-size: 4rem;
-      }
-      .word {
-        color: var(--wordColor);
-        font-weight: var(--fontWeight);
-        text-transform: var(--textCase);
-      }
-    </style>
 	</head>
   <body> 
     <a href="/">Home</a>
     <a href="/about">About</a>
     <a href="/blog/">Blog</a>
     <h1>{pageTitle}</h1>
-		<h1>This is an about page</h1>
-    <p>Ethan Jantz is developing a website in Astro</p>
+    <p>Welcome to my website! I use this space to flesh out ideas I'm working on, share my side projects, and talk about things that excite me.</p>
+    <p>I'm Ethan Jantz, a software engineer based out of Chicago, Illinois. I most recenlty served as a fellow in the <a href="https://digitalcorps.gsa.gov">United States Digital Corps</a>, where I supported the <a href="https://headstart.gov">Head Start Program</a> in modernizing their data infrastructure.</p>
+    <p>In previous roles I've worked with <a href="https://cmap.illinois.gov">the Chicago Metropolitan Agency for Planning</a> migrate their <a href="https://datahub.cmap.illinois.gov">data hub</a> to the cloud and <a href="https://voorheescener.uic.edu">the Nathalie P. Voorhees Center</a> provide analysis and data support to local government, academic, and non-profit organizations.</p>
+    <p>Outside of work I listen to and play music, practice martial arts, code, bike, read, game, and think.</p>
+    <h2>Contact Me:</h2>
     <ul>
-      {words.map((word) => <li class="word">{word}</li>)}
+      <li><a href="ethan.jantz@gmail.com">Email</a></li>
     </ul>
-	</body>
+
+  </body>
 </html>
 

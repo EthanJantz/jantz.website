@@ -1,7 +1,7 @@
----
++++
 title = 'Practice'
 date = 2025-04-04
----
++++
 
 I've been thinking about what it means to practice, or to have a practice, lately. This might be indulgent, but the cool thing about having a blog is that it's a space to be self-indulgent.
 
