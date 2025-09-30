@@ -9,18 +9,6 @@ body {
   line-height: 1.5;
 }
 
-.float-container {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-}
-
-.footer-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 a {
   --s: 0.1em;   /* the thickness of the line */
   --c: #BABBF1; /* the color */
@@ -43,4 +31,16 @@ a:hover {--_p: 100%}
 
 li {
   list-style-type: none;
+}
+
+.float-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
