@@ -1,0 +1,26 @@
+---
+import { layer, icon, type IconDefinition } from "@fortawesome/fontawesome-svg-core";
+import "@fortawesome/fontawesome-svg-core/styles.css";
+
+interface IconsDefinition {
+    icon: IconDefinition;
+    class?: string;
+}
+
+interface Props {
+    icons: IconsDefinition[];
+    class?: string;
+}
+
+const layerHtml = layer((push) => {
+    for (const iconDefinition of Astro.props.icons) {
+        push(icon(iconDefinition.icon, {
+            classes: Array.from(new Set(iconDefinition.class?.split(" "))),
+        }));
+    }
+}, {
+    classes: Array.from(new Set(Astro.props.class?.split(" "))),
+}).html;
+---
+
+<Fragment set:html={layerHtml} />
