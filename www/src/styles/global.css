@@ -4,12 +4,22 @@ html {
 }
 
 body {
-  margin: 10% auto;
+  margin: 5% auto;
   max-width: 100ch;
   line-height: 1.5;
 }
 
+i {
+  color: #CA9EE6;
+  font-size:30px;
+}
+
 a {
+  color: #CA9EE6;
+  text-decoration: none;
+}
+
+.anilink {
   --s: 0.1em;   /* the thickness of the line */
   --c: #BABBF1; /* the color */
   
@@ -27,10 +37,14 @@ a {
           background-clip: text,border-box;
   transition: .3s;
 }
-a:hover {--_p: 100%}
+.anilink:hover {--_p: 100%}
 
 li {
   list-style-type: none;
+}
+
+.nav {
+  padding-top: 5px;
 }
 
 .float-container {

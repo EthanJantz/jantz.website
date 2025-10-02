@@ -1,11 +1,18 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import Navigation from '../components/Navigation.astro';
 const { frontmatter } = Astro.props;
 const publish_date = new Date(frontmatter.date).toDateString();
 ---
 <BaseLayout pageTitle={frontmatter.title}>
-  <h1>{frontmatter.title}</h1>
-  <p>Written by { frontmatter.author }</p>
+  <div class="float-container">
+    <div>
+      <h1 style="display:inline;">Hello, I'm Ethan.</h1>
+    </div>
+    <div class="nav">
+      <Navigation pageTitle={frontmatter.title}/>
+    </div>
+  </div>
   <p>Posted on { publish_date }</p>
   <slot />
 </BaseLayout>
