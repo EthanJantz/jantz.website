@@ -1,0 +1,60 @@
+html {
+  color: #C6D0F5;
+  background: #303446;
+}
+
+body {
+  margin: 5% auto;
+  max-width: 100ch;
+  line-height: 1.5;
+}
+
+i {
+  color: #CA9EE6;
+  font-size:30px;
+}
+
+a {
+  color: #CA9EE6;
+  text-decoration: none;
+}
+
+.anilink {
+  --s: 0.1em;   /* the thickness of the line */
+  --c: #BABBF1; /* the color */
+  
+  color: #C6D0F500;
+  padding-bottom: var(--s);
+  background: linear-gradient(
+    90deg,
+    var(--c) 50%,
+    #CA9EE6 0
+    ) 
+    calc(100% - var(--_p,0%))/200% 100%,
+    linear-gradient(
+    var(--c) 0 0
+    ) 0% 100%/var(--_p,0%) var(--s) no-repeat;
+          background-clip: text,border-box;
+  transition: .3s;
+}
+.anilink:hover {--_p: 100%}
+
+li {
+  list-style-type: none;
+}
+
+.nav {
+  padding-top: 5px;
+}
+
+.float-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

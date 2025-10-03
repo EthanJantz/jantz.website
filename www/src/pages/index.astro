@@ -1,0 +1,53 @@
+---
+import '../styles/global.css';
+import Navigation from '../components/Navigation.astro'
+import Footer from '../components/Footer.astro'
+import Posts from '../components/Posts.astro'
+import Projects from '../components/Projects.astro'
+const pageTitle = "Home"
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+    <title>{pageTitle == "Home" && "jantz.website"}</title>
+	</head>
+  <body>
+    <div class="float-container">
+      <div>
+        <h1 style="display:inline;">Hello, I'm Ethan.</h1>
+      </div>
+      <div class="nav">
+        <Navigation pageTitle={pageTitle}/>
+      </div>
+    </div> 
+    <hr>
+     I'm a software engineer. 
+    <p>
+      I've worked to modernize government data systems at the local and federal 
+      levels, built tools for university research centers, and supported non-profit
+      organizations in unlocking their data.
+    <p>
+      I'm currently available for full- and part-time positions as well as 
+      contract and consulting work. If you're looking for someone who can 
+      organize, move, tool, and visualize your data, you can reach me 
+      <a href="ethan@jantz.website">here</a>
+    <hr>
+    
+    POSTS:
+    
+    <Posts />
+
+    <hr>
+
+    PROJECTS:
+
+    <Projects />
+
+  </body>
+  <Footer />
+</html>
+
