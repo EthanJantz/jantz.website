@@ -1,7 +1,8 @@
 +++
 layout = "../../layouts/MarkdownPostLayout.astro"
 title = "Let's Golf!"
-date = 2025-08-27
+description = "A gentle introduction to code golf."
+pubDate = 2025-08-27
 +++
 
 One of my favorite time-killers I've picked up recently is code golf. It's a way to turn programming problems in to puzzles by solving them in as few characters as possible. It also can lead to some pretty ridiculous code -- code that I would never give to someone else for review unless they were also trying to golf.
