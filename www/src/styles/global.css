@@ -19,8 +19,16 @@ a {
   text-decoration: none;
 }
 
-li {
+code:not(pre code) {
+  background: #24292E;
+}
+
+.post-link {
   list-style-type: none;
+}
+
+.project-link {
+  list-style-type: none; 
 }
 
 .nav {
