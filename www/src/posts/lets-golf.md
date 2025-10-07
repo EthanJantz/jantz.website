@@ -1,5 +1,4 @@
 +++
-layout = "../../layouts/MarkdownPostLayout.astro"
 title = "Let's Golf!"
 description = "A gentle introduction to code golf."
 pubDate = 2025-08-27
