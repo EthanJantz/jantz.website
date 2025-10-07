@@ -17,7 +17,13 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
-const publish_date = new Date(post.data.pubDate).toDateString();
+const publish_date = new Date(post.data.pubDate).toLocaleDateString('en-US', {
+  timeZone: 'UTC',
+  weekday: 'short',
+  year: 'numeric',
+  month: 'short',
+  day: 'numeric'
+});
 ---
 <BaseLayout pageTitle={post.data.title}>
   <div class="float-container">
