@@ -26,14 +26,6 @@ const publish_date = new Date(post.data.pubDate).toLocaleDateString('en-US', {
 });
 ---
 <BaseLayout pageTitle={post.data.title}>
-  <div class="float-container">
-    <div>
-      <h1 style="display:inline;">{post.data.title}</h1>
-    </div>
-    <div class="nav">
-      <Navigation pageTitle={post.data.title}/>
-    </div>
-  </div>
   {publish_date}
   <Content />
 </BaseLayout>
