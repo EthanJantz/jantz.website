@@ -4,6 +4,7 @@ import Navigation from '../components/Navigation.astro'
 import Footer from '../components/Footer.astro'
 import Posts from '../components/Posts.astro'
 import Projects from '../components/Projects.astro'
+import { ACTION_ERROR_CODES } from 'astro:actions';
 const pageTitle = "Home"
 ---
 
@@ -13,7 +14,7 @@ const pageTitle = "Home"
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-    <title>{pageTitle == "Home" && "jantz.website"}</title>
+    <title>{pageTitle == "Home" && "Ethan Jantz"}</title>
 	</head>
   <body>
     <div class="float-container">
@@ -25,7 +26,7 @@ const pageTitle = "Home"
       </div>
     </div> 
     <hr>
-     I'm a software engineer. 
+      I'm a software engineer. 
     <p>
       I've modernized government data systems at the local and federal 
       levels, built tools for university research centers, and supported non-profit
@@ -34,7 +35,9 @@ const pageTitle = "Home"
       I'm currently available for full- and part-time positions as well as 
       contract and consulting work. If you're looking for someone who can 
       organize, move, tool, and visualize your data, you can reach me 
-      <a href="mailto:ethan@jantz.website">here</a>
+      <a href="mailto:ethan@jantz.website">here</a>. 
+    <p>
+      My resume is available <a href="/resume">here</a>.
     <hr>
     <Posts />
     <hr>

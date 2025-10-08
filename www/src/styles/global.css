@@ -1,6 +1,6 @@
 html {
   color: #D3C6AA;
-  background: #3C4841;
+  background: #2E383C;
 }
 
 body {
@@ -9,16 +9,16 @@ body {
   line-height: 1.5;
 }
 
-i {
-  color: #D699B6;
-  font-size:30px;
-}
 
 a {
-  color: #D699B6;
+  color: #A7C080;
   text-decoration: none;
 }
 
+i {
+  color: #A7C080;
+  font-size:30px;
+}
 code:not(pre code) {
   background: #24292E;
 }
