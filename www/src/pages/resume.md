@@ -29,8 +29,9 @@ June 2025 - September 2025 | Brooklyn, NY
 2022 - 2023 | Chicago, IL
 
 - Led migration of organization's open data portal to ArcGIS Hub, developing data governance policies aligned with industry best practices, enhancing data accessibility and transparency
-- Automated 4 data processing workflows using Python and SQL while managing Azure cloud storage solutions, reducing manual reporting efforts and improving data infrastructure accessibility
-- Analyzed and visualized spatial/tabular data using R and Python to generate actionable insights for planning initiatives, while providing technical training to 20 staff across 2 departments on data analysis
+- Automated data processing workflows, reducing manual reporting efforts and improving data infrastructure accessibility
+- Analyzed and visualized spatial/tabular data to generate actionable insights for planning initiatives
+- Provided technical training to 20 staff across 2 departments on data analysis
 
 ### Research Assistant - [Nathalie P. Voorhees Center](https://voorheescenter.uic.edu/)
 
