@@ -1,0 +1,19 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import App from '../components/bwop/App'
+---
+
+<BaseLayout pageTitle="bwop">
+  <center>
+    <!-- Last updated from source on 2025-10-09 -->
+    <App client:load />
+  </center>
+<br>
+  Made in collaboration with <a href="https://github.com/sm2n">sm2n</a> at the <a href="https://recurse.com">Recurse Center</a>.
+  <p>Avoid falling over for as long as you can!
+  <p>Controls:
+  <br><strong>Z</strong> and <strong>,</strong> control the left and right shoulders.
+  <br><strong>X</strong> and <strong>.</strong> control the elbows.
+  <br><strong>R</strong> resets the game.
+  <p>Source code for the game can be found <a href="https://github.com/ethanjantz/bwop">here</a>.
+</BaseLayout>
