@@ -4,7 +4,7 @@ pageTitle: "Ethan Jantz - Resume"
 title: "Resume"
 ---
 
-PDF available [here](https://raw.githubusercontent.com/EthanJantz/jantz.website/main/www/public/EJantz_20251003.pdf)
+PDF available [here](/ejantz_resume.pdf)
 
 ---
 

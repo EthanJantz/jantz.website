@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Navigation from '../../components/Navigation.astro';
+import { CollectionEntry, getCollection, render } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+
+export async function getStaticPaths() {
+  const projects = await getCollection('projects');
+  return projects.map((project: CollectionEntry<'projects'>) => ({
+    params: { id: project.id },
+    props: { project },
+  }));
+}
+
+const { project } = Astro.props;
+const { Content } = await render(project);
+---
+<BaseLayout pageTitle={project.data.title}>
+  <Content />
+</BaseLayout>
