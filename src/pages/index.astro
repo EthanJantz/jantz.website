@@ -1,48 +1,33 @@
 ---
-import '../styles/global.css';
+import '../styles/global.css'
+import HydraBG from '../components/HydraBG.astro'
 import Navigation from '../components/Navigation.astro'
 import Footer from '../components/Footer.astro'
 import Posts from '../components/Posts.astro'
 import Projects from '../components/Projects.astro'
-import { ACTION_ERROR_CODES } from 'astro:actions';
-const pageTitle = "Home"
+const pageTitle = 'Home'
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-    <title>{pageTitle == "Home" && "Ethan Jantz"}</title>
-	</head>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{pageTitle == 'Home' && 'Ethan Jantz'}</title>
+  </head>
   <body>
-    <div class="float-container">
-      <div>
-        <h1 style="display:inline;">Hello, I'm Ethan.</h1>
+    <HydraBG
+      hydraCode="noise(() => Math.sin(10)).sub(solid(0, 1, 0)).brightness(.1).out() "
+    />
+    <div class="panel">
+      <div class="panel-header">
+        <h1>Ethan Jantz</h1>
+        <Navigation pageTitle={pageTitle} />
       </div>
-      <div class="nav">
-        <Navigation pageTitle={pageTitle}/>
-      </div>
-    </div> 
-    <hr>
-      I'm a software engineer. 
-    <p>
-      I've modernized government data systems at the local and federal 
-      levels, built tools for university research centers, and supported non-profit
-      organizations in unlocking their data.
-    <p>
-      I'm currently available for full- and part-time positions as well as 
-      contract and consulting work. If you're looking for someone who can 
-      manage, move, tool, develop, and visualize your data, you can reach me 
-      <a href="mailto:ethan@jantz.website">here</a>. 
-    <p>
-      My resume is available <a href="/resume">here</a>.
-    <hr>
-    <Posts />
-    <hr>
-    <Projects />
+      <Posts />
+      <Projects />
+      <Footer />
+    </div>
   </body>
-  <Footer />
 </html>
-
