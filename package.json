@@ -9,12 +9,17 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/react": "^4.4.0",
-    "@astrojs/rss": "^4.0.12",
-    "@types/react": "^19.2.2",
-    "@types/react-dom": "^19.2.1",
-    "astro": "^5.12.8",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "@astrojs/react": "^4.4.2",
+    "@astrojs/rss": "^4.0.18",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "astro": "^5.18.1",
+    "hydra-synth": "^1.4.0",
+    "prettier-plugin-astro": "^0.14.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "prettier": "3.5"
   }
 }
