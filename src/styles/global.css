@@ -1,6 +1,6 @@
 html {
-  color: #D3C6AA;
-  background: #2E383C;
+  color: #d3c6aa;
+  background: #2e383c;
 }
 
 body {
@@ -9,18 +9,18 @@ body {
   line-height: 1.5;
 }
 
-
 a {
-  color: #A7C080;
+  color: #a7c080;
   text-decoration: none;
 }
 
 i {
-  color: #A7C080;
-  font-size:30px;
+  color: #a7c080;
+  font-size: 30px;
 }
+
 code:not(pre code) {
-  background: #24292E;
+  background: #24292e;
 }
 
 .post-link {
@@ -28,7 +28,7 @@ code:not(pre code) {
 }
 
 .project-link {
-  list-style-type: none; 
+  list-style-type: none;
 }
 
 .nav {
@@ -36,13 +36,28 @@ code:not(pre code) {
 }
 
 .float-container {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
 }
 
 .footer-content {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.panel {
+  position: relative;
+  max-width: 100ch;
+  margin: 5% auto;
+  padding: 2rem;
+  background: #2e383c;
+  border-radius: 1rem;
 }

@@ -1,0 +1,37 @@
+---
+const { hydraCode } = Astro.props;
+---
+<canvas id="hydra-bg"></canvas>
+<script is:inline>
+  window.global = window;
+</script>
+<script>
+  import Hydra from 'hydra-synth';
+  window.Hydra = Hydra;
+</script>
+<script is:inline define:vars={{ hydraCode }}>
+  const canvas = document.getElementById('hydra-bg');
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  window.addEventListener('resize', () => {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+  });
+  window.addEventListener('load', () => {
+    var hydra = new Hydra({
+      canvas: canvas,
+      detectAudio: false,
+    });
+    eval(hydraCode);
+  });
+</script>
+<style>
+  #hydra-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+  }
+</style>
